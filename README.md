@@ -1,6 +1,8 @@
+
 # CraxPro
 
-Python automation script for creating forum posts from rotating title/data files.
+CraxPro Tool is a Python tool that helps automate posting content on CraxPro forums. It is designed for users who regularly publish forum posts and want to streamline the repetitive posting workflow, including situations where CraxPro rewards active users for posting consistently.
+
 
 ## Overview
 
